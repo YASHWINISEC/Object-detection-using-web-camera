@@ -204,10 +204,5 @@ COCO Dataset
 
 OpenCV
 
-
-
 ### ✅ What to Do Next:
 1. Save this content as README.md in your project folder.
-2. Push your entire project folder (including detect.py, model files, and this README) to GitHub.
-
-Let me know if you'd like me to generate a LICENSE file or a .gitignore too!
