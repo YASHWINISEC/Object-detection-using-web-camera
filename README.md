@@ -172,9 +172,10 @@ cv2.destroyAllWindows()
 
 📸 Example Output
 
-Here's what the output looks like (example image):
+Here's what the output looks like :
 
-![Uploading Screenshot 2025-09-20 145356.png…]()
+<img width="791" height="592" alt="Screenshot 2025-09-20 145356 - Copy" src="https://github.com/user-attachments/assets/cfb4e33a-89b4-49a2-809a-f74bc3dd9e71" />
+
 
 
 
